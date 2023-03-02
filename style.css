@@ -1,0 +1,58 @@
+
+.container{
+    max-width: 400px;
+    margin:0 auto;
+    padding:30px;
+    box-shadow:#a618a2 0px 10px 40px 20px;
+     border-radius:20px ;
+   
+    
+}
+.form-group{
+    margin-bottom:25px;
+    background: rgb(195, 192, 195);
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(9, 9, 9, 0.1);
+
+}
+body {
+    padding:50px;
+    background-image: url("https://t4.ftcdn.net/jpg/05/02/00/29/360_F_502002930_iiNCLBvyUkIi28Evu0rYhrF5RXffzQ5q.jpg");
+    background-size: cover;
+    
+        
+    height: 100vh;
+  }
+  h2 {
+    color: rgb(166, 176, 234);
+    font-size: 40px;
+    
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow: 4px black;
+
+    
+    }
+    h3 {
+        color: rgb(209, 212, 230);
+        font-size: 24px;
+        
+        text-align: center;
+       
+        
+        }
+       h1 {
+        color: rgb(209, 212, 230);
+       }
+      
+       h6{
+        color: rgb(255, 255, 255);
+      
+       }
+       
+       
+      
+       
